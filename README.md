@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑 Tentang Saya
+## Tentang Saya
 
 - Zora adalah nama panggilan di sosial media, sedangkan nama asli saya adalah Farrel
 - Siswa SMK kelas 11 di kota Bekasi
