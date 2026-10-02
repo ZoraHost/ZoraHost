@@ -12,12 +12,10 @@
 
 ## 🧑 Tentang Saya
 
-- 🔭 Lagi kerja di **Nova Bot Project**
-- 🌱 Lagi belajar **Node.js** & **Baileys**
-- 👯 Mau kolaborasi di **Bot WhatsApp**
-- 💬 Tanya aku soal **JavaScript**, **Baileys**, **Node.js**
-- 📫 Kontak: **zora@example.com**
-- ⚡ Fun fact: **Suka ngoding tengah malam**
+- Zora adalah nama panggilan di sosial media, sedangkan nama asli saya adalah Farrel
+- Siswa SMK kelas 11 di kota Bekasi
+- Suka membuat script dan mengembangkan script bot WhatsApp
+- 📫 Kontak: **farrelmandalah@gmail.com**
 
 ---
 
@@ -55,10 +53,10 @@
   <a href="https://youtube.com/@ZoraHost" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://wa.me/628123456789" target="_blank">
+  <a href="https://wa.me/6282124186488" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="mailto:zora@example.com">
+  <a href="mailto:farrelmandalah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
