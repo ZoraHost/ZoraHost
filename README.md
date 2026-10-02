@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Bot+Developer;Node.js+Enthusiast;Always+Learning" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/fbpwo7.jpeg" width="200">
-</p>
-
 ---
 
 ## 🧑 Tentang Saya
@@ -15,7 +11,7 @@
 - Zora adalah nama panggilan di sosial media, sedangkan nama asli saya adalah Farrel
 - Siswa SMK kelas 11 di kota Bekasi
 - Suka membuat script dan mengembangkan script bot WhatsApp
-- 📫 Kontak: **farrelmandalah@gmail.com**
+- 📫 Email: **farrelmandalah@gmail.com**
 
 ---
 
