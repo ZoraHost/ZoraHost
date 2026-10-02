@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zora</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Bot+Developer;Node.js+Enthusiast;Always+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Bot+Developer;Node.js+Enthusiast;Always+Learning" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -36,12 +36,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZoraHost&show_icons=true&theme=default&hide_border=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoraHost&theme=default&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZoraHost&show_icons=true&hide_border=true&theme=transparent" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoraHost&hide_border=true&theme=transparent" width="400">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoraHost&layout=compact&theme=default&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoraHost&layout=compact&hide_border=true&theme=transparent" width="400">
 </p>
 
 ---
@@ -69,7 +69,7 @@
 
 <p align="left">
   <a href="https://github.com/ZoraHost/Nova-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZoraHost&repo=Nova-Bot&theme=default&hide_border=true" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZoraHost&repo=Nova-Bot&hide_border=true&theme=transparent" width="400">
   </a>
 </p>
 
